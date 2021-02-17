@@ -26,5 +26,8 @@ module.exports = {
     },
     editAction: async (req, res) => {
         
+    },
+    deleteAction: async (req, res) => {
+        
     }
 };
